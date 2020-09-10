@@ -8,14 +8,14 @@ Read the Docs: Documentation Simplified
 by building, versioning, and hosting of your docs, automatically.
 Think of it as *Continuous Documentation*.
 
-Never out of sync |:arrows_counterclockwise:|
+Never out of sync 
     Whenever you push code to your favorite version control system,
     whether that is Git, Mercurial, Bazaar, or Subversion,
     Read the Docs will automatically build your docs
     so your code and documentation are always up-to-date.
     Read more about :doc:`/webhooks`.
 
-Multiple versions |:card_index_dividers:|
+Multiple versions 
     Read the Docs can host and build multiple versions of your docs
     so having a 1.0 version of your docs and a 2.0 version
     of your docs is as easy as having a separate branch or tag in your version control system.
